@@ -1,14 +1,14 @@
 # Sublime Text 3 Setup for Python
 
-##### Sublime Text Setup
+### Sublime Text Setup
 
-1. Install Sublime Text 3
+- Install Sublime Text 3
+- Install Sublime Text Package Control
 
-2. Install Sublime Text Package Control
+### Setup for Python running environment
 
-3. Install Package : SublimeREPL
-
-4. In the Tools menu, select Build System -> Add New Build System and save as SublimeREPL-python.sublime-build
+- Install Package : SublimeREPL
+- In the Tools menu, select Build System -> Add New Build System and save as SublimeREPL-python.sublime-build
 
 ```
 {
@@ -18,14 +18,12 @@
 }
 ```
 
-5. In the Tools menu, select Build System -> SublimeREPL-python
+- In the Tools menu, select Build System -> SublimeREPL-python
+- Write a sample python program and run it using 'ctrl+B'!
 
-6. Write a sample python program and run it!
+### Tip
 
-##### Tip
-
-1. Select View -> Layout -> Rows : 2 to view the result in the same window.
-
-2. Add a macro to write a colon and new line at end of line.
+- Select View -> Layout -> Rows : 2 to view the result in the same window.
+- Add a macro to write a colon and new line at end of line.
 
 
